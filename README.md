@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working github.com/tangent-cloud
+- 🌱 I’m currently learning Backend Engineering
+- 💬 Ask me about Backend and Systems 
+- 📫 How to reach me: muhammadazeem.com
+
 <!--
 **hmuhammadazeem/hmuhammadazeem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
