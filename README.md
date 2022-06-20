@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working github.com/tangent-cloud
+- 🔭 I’m currently working nn my skills :D
 - 🌱 I’m currently learning Backend Engineering
 - 💬 Ask me about Backend and Systems 
 - 📫 How to reach me: muhammadazeem.com
